@@ -1,0 +1,27 @@
+li {
+    list-style: none;
+    border: solid 1px #bbb;
+    height: 80px;
+    width: 500px;
+    overflow: auto;
+    border-radius: 5px;
+}
+li button{
+    float: right;
+    background-color: #fff;
+    border: solid 1px #bbb;
+    color: royalblue;
+}
+li .user {
+    font-size: 20px;
+    width: 300px;
+    float: left;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 5px;
+}
+li .text {
+    font-size: 15px;
+    clear: left;
+    text-indent: 30px;
+}

@@ -1,0 +1,26 @@
+#add {
+    margin-left: 100px;
+    padding-right: 100px;
+    width: 300px;
+    border-right: solid 5px #eee;
+    position: relative;
+    float: left;
+}
+input {
+    height: 30px;
+}
+input,textarea{
+    border-radius: 5px;
+    width: 300px;
+    border: solid 1px #bbb;
+    font-size: 15px;
+}
+button {
+    margin-top: 6px;
+    float: right;
+    background-color: #fff;
+    border: solid 1px #bbb;
+}
+p {
+    margin: 10px 0px;
+}
