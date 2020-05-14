@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Add from '../Add.js';
-import List from '../List.js';
+import Add from '../Add/Add.js';
+import List from '../List/List.js';
 
 class App extends React.Component{
   constructor(props) {

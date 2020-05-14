@@ -8,6 +8,10 @@
   + state
 * 受控组件
 * 生命周期
+* ajax
 
-## 2.react-cli为利用脚手架搭建的一个简单评论系统，如图
+## 2.react-cli脚手架
+* src_cli利用脚手架搭建的一个简单评论系统，如图
 ![comment](./comment.png)
+* src_router为路由的使用
+##### 每个文件夹下的readMe为笔记，将文件夹名字改为src即可使用
